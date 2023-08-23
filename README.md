@@ -1,7 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=header"/> 
-<h1 align="center">⭐️PROGRAMAÇÃO WEB: LISTA DE PHP⭐️</h1>
+<p align="center">
+  
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="5">
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![HTML](https://img.shields.io/badge/Feito%20com-HTML-purple)](#) [![CSS](https://img.shields.io/badge/Feito%20com-CSS-purple)](#) [![PHP](https://img.shields.io/badge/Feito%20com-PHP-purple)](#)    
+</p>
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=soft&text=⭐️PROGRAMAÇÃO%20WEB:%20LISTA%20DE%20PHP⭐&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&height=100)
+
+</div>
+
+<div align="center">
+  
+  [![HTML](https://img.shields.io/badge/Feito%20com-HTML-purple)](#) 
+  [![CSS](https://img.shields.io/badge/Feito%20com-CSS-purple)](#) 
+  [![PHP](https://img.shields.io/badge/Feito%20com-PHP-purple)](#)    
+
+</div>
 
 ## Exercício 01
 ![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/06d65648-ca4e-449c-b032-c81e60188f88)
@@ -29,5 +43,6 @@ Acesse esse link para a visualização do projeto: [Abrir Link]()
 - E-mail: [Meu Email](mailto:agonsalvessissa@gmail.com)
 - LinkedIn: [Meu Perfil](https://www.linkedin.com/in/alerrandra)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="5">
+</p>

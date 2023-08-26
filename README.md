@@ -18,25 +18,26 @@
 </div>
 
 ## Exercício 01
-![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/06d65648-ca4e-449c-b032-c81e60188f88)
+
+![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/3f559343-6253-464f-80cc-b60ce3dd49cb)
 
 ## Exercício 02
-![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/30628e35-1827-419d-9c59-2552642f3fb6)
+
+![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/f9b91095-7a80-43af-9f5c-1b497460faf4)
 
 ## Exercício 03
-![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/f20fa7d5-bd9e-4252-bfe2-bfed8df7e3d3)
+
+![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/71d02ffd-e36b-4233-8554-d1d2a6aab295)
 
 ## Exercício 04
-![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/d339b8cd-8dc3-4940-a144-e99ce72437b6)
+
+![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/7a77f2e0-9dda-463b-9471-8b8cf920fefb)
 
 ## Exercício 05
-![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/ac386d35-6760-402d-9afc-0fd3327cf64a)
-![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/8893cc68-b962-41ec-99ec-c6846f4be4bd)
 
+![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/47d279cd-f96e-43e2-97a4-d0b400c9c10c)
+![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/c0186e48-e05c-4b4d-a5ae-37158b7743eb)
 
-## Visualização
-
-Acesse esse link para a visualização do projeto: [Abrir Link]()
 
 ## Contato
 

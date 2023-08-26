@@ -121,11 +121,11 @@ input:hover {
     cursor: pointer;
 }
 
-.calculate-value{
+.calculate-value,.calculate-value-last{
     height: 50px;
 }
 
-.calculate:hover {
+.calculate:hover, .calculate-value-last:hover {
     background-color: var(--color05);
 }
 
@@ -139,4 +139,10 @@ label {
     width: 50em;
     overflow-wrap: break-word;
     transform: scale(0.9);
+}
+
+.calculate-value-last {
+    clear: both;
+    display: block;
+    margin-top: 10px; /* Adapte o valor conforme necessário */
 }

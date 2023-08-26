@@ -39,10 +39,6 @@
 ![image](https://github.com/Ale00gs/Programacao_web-lista1-PHP/assets/88510474/c0186e48-e05c-4b4d-a5ae-37158b7743eb)
 
 
-## Visualização
-
-Acesse esse link para a visualização do projeto: [Abrir Link]()
-
 ## Contato
 
 - E-mail: [Meu Email](mailto:agonsalvessissa@gmail.com)

@@ -9,7 +9,7 @@
     <div class="button-size">
         <div ontouchstart="">
             <div class="button">
-                <a class="button-text" href="./exe1.php">voltar</a>
+                <a class="button-text" href="../../Lista1/EXERCICIO1/exe1.php">voltar</a>
             </div>
         </div>
     </div>

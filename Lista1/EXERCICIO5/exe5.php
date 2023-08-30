@@ -17,7 +17,7 @@ require 'functions.php';
     <div class="button-size">
         <div ontouchstart="">
             <div class="button">
-                <a class="button-text" href="../index.php">voltar</a>
+                <a class="button-text" href="../../index.php">voltar</a>
             </div>
         </div>
     </div>

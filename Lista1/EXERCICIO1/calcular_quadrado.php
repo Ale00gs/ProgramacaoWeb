@@ -2,14 +2,14 @@
 <html>
 <head>
     <title>Calcular Área do Quadrado</title>
-    <link rel="stylesheet" type="text/css" href="../../../style.css">
+    <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 <body>
     <h1>Calcular Área do Quadrado</h1>
     <div class="button-size">
         <div ontouchstart="">
             <div class="button">
-                <a class="button-text" href="./exe1.php">voltar</a>
+                <a class="button-text" href="../../Lista1/EXERCICIO1/exe1.php">voltar</a>
             </div>
         </div>
     </div>

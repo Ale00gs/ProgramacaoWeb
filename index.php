@@ -23,11 +23,11 @@
     <div class="list-card-page">
         <h1>Lista 2 - poo</h1>
         <ul class="exercise-list-page">
-            <li><a href="./Lista2/EXERCICIO1/exe1.php">EXERCíCIO 1: Classe Retângulo</a></li>
-            <li><a href="./Lista2/EXERCICIO2/exe2.php">EXERCíCIO 2: Classe Calculadora</a></li>
-            <li><a href="./Lista2/EXERCICIO3/exe3.php">EXERCíCIO 3: Classe Carro</a></li>
-            <li><a href="./Lista2/EXERCICIO4/exe4.php">EXERCíCIO 4: Classe Data</a></li>
-            <li><a href="./Lista2/EXERCICIO5/exe5.php">EXERCíCIO 5: Classe Vôo</a></li>
+            <li><a href="./Lista2/EXERCICIO1/Retangulo.php">EXERCíCIO 1: Classe Retângulo</a></li>
+            <li><a href="./Lista2/EXERCICIO2/Calculadora.php">EXERCíCIO 2: Classe Calculadora</a></li>
+            <li><a href="./Lista2/EXERCICIO3/Carro.php">EXERCíCIO 3: Classe Carro</a></li>
+            <li><a href="./Lista2/EXERCICIO4/Data.php">EXERCíCIO 4: Classe Data</a></li>
+            <li><a href="./Lista2/EXERCICIO5/Voo.php">EXERCíCIO 5: Classe Vôo</a></li>
         </ul>
     </div>
 </body>

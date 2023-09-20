@@ -21,13 +21,43 @@
 <div class="result">
     <?php
     class Carro {
-        //atributos
-        
-        //construtor
-        
-        //métodos
-
-    }    
+        private $consumo; 
+        private $combustivel; 
+    
+        public function __construct($consumo) {
+            $this->consumo = $consumo;
+            $this->combustivel = 0;
+        }
+    
+        public function andar($distancia) {
+            $combustivelConsumido = $distancia / $this->consumo;
+    
+            if ($combustivelConsumido <= $this->combustivel) {
+                $this->combustivel -= $combustivelConsumido;
+                echo "<br>Você dirigiu $distancia km. <br>Nível de combustível restante: {$this->combustivel} litros <br>";
+            } else {
+                echo "<br>Não há combustível suficiente para essa viagem.";
+            }
+        }
+    
+        public function getCombustivel() {
+            return $this->combustivel;
+        }
+    
+        public function setCombustivel($quantidade) {
+            $this->combustivel += $quantidade;
+        }
+    }
+    
+    $meuCarro = new Carro(10);
+    echo "<br>Nível de combustível inicial: {$meuCarro->getCombustivel()} litros";
+    
+    $meuCarro->setCombustivel(50); 
+    echo "<br>Nível de combustível após abastecer: {$meuCarro->getCombustivel()} litros<br>";
+    
+    $meuCarro->andar(200); 
+    $meuCarro->andar(100); 
+      
     ?>
 </div>
 </div>

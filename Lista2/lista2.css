@@ -8,7 +8,7 @@
     --color07: #8235affb;
     --color08: #d36e87fb;
     --color09: rgb(87, 85, 85);
-    --color10:#9367c579;
+    --color10: #9367c579;
 }
 
 body {
@@ -90,5 +90,5 @@ body {
     text-align: center;
     font-size: 25px;
     text-transform: uppercase;
-    font-family:cursive;
+    font-family: cursive;
 }

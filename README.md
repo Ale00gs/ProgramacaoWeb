@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&text=⭐️PROGRAMAÇÃO%20WEB:%20LISTA%20DE%20PHP⭐&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&height=100)
+![header](https://capsule-render.vercel.app/api?type=soft&text=⭐️PROGRAMAÇÃO%20WEB:%20LISTAS%20DE%20PHP⭐&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&height=100)
 
 </div>
 
